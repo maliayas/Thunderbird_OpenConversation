@@ -1,0 +1,7 @@
+overlay   chrome://messenger/content/messenger.xul       chrome://open-conversation/content/open-conversation.xul
+style     chrome://global/content/customizeToolbar.xul   chrome://open-conversation/skin/open-conversation.css
+
+content  open-conversation                jar:chrome.jar!/content/
+skin     open-conversation   classic/1.0  jar:chrome.jar!/skin/
+locale   open-conversation   en-US        jar:chrome.jar!/locale/en-US/
+locale   open-conversation   tr           jar:chrome.jar!/locale/tr/

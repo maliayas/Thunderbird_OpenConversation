@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>{bb062c80-19b0-11e4-8c21-0800200c9a66}</em:id>
+        <em:type>2</em:type>
+        <em:name>Open Conversation Button</em:name>
+        <em:description>Adds a toolbar button to open selected email's conversation.</em:description>
+        <em:version>1.0</em:version>
+        <em:creator>M. Ali Ayas</em:creator>
+        <em:iconURL>chrome://open-conversation/skin/icon.png</em:iconURL>
+        <em:homepageURL>https://github.com/maliayas/Thunderbird_OpenConversation</em:homepageURL>
+
+        <em:localized>
+            <Description>
+                <em:locale>tr</em:locale>
+                <em:name>Open Conversation Button</em:name>
+                <em:description>Seçili iletinin dizi görünümünü açmak için araç çubuğuna buton ekler.</em:description>
+            </Description>
+        </em:localized>
+
+        <!-- Thunderbird -->
+        <em:targetApplication>
+            <Description>
+                <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+                <em:minVersion>20.0</em:minVersion>
+                <em:maxVersion>24.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+    </Description>
+</RDF>

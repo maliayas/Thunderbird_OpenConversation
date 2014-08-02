@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://open-conversation/skin/open-conversation.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://open-conversation/locale/open-conversation.dtd">
+    <overlay id="minimizeOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <toolbarpalette id="MailToolbarPalette">
+        <toolbarbutton
+            class="toolbarbutton-1"
+            id="open-conversation"
+            label="&open-conversation-short;"
+            tooltiptext="&open-conversation;"
+            oncommand="gConversationOpener.openConversationForMessages(gFolderDisplay.selectedMessages);"
+        />
+    </toolbarpalette>
+</overlay>

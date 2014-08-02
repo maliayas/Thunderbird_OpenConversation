@@ -1,0 +1,4 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#open-conversation {list-style-image: url("chrome://open-conversation/skin/open-conversation.png");}
+toolbar[iconsize="small"] #open-conversation {list-style-image: url("chrome://open-conversation/skin/open-conversation-small.png");}
