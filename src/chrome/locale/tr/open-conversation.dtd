@@ -1,2 +1,2 @@
-<!ENTITY open-conversation-short "Dizi">
-<!ENTITY open-conversation "İletiyi Dizi Görünümünde Aç">
+<!ENTITY open_conversation.label "Dizi">
+<!ENTITY open_conversation.tooltip "İletiyi Dizi Görünümünde Aç">

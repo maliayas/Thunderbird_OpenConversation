@@ -6,8 +6,8 @@
         <toolbarbutton
             class="toolbarbutton-1"
             id="open-conversation"
-            label="&open-conversation-short;"
-            tooltiptext="&open-conversation;"
+            label="&open_conversation.label;"
+            tooltiptext="&open_conversation.tooltip;"
             oncommand="gConversationOpener.openConversationForMessages(gFolderDisplay.selectedMessages);"
         />
     </toolbarpalette>

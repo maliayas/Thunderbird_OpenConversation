@@ -1,2 +1,2 @@
-<!ENTITY open-conversation-short "Conversation">
-<!ENTITY open-conversation "Open Message in Conversation">
+<!ENTITY open_conversation.label "Conversation">
+<!ENTITY open_conversation.tooltip "Open Message in Conversation">
