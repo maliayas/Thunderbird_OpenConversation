@@ -8,7 +8,7 @@ A Thunderbird addon that adds a toolbar button to open selected email's conversa
 
 ### Installation
 
-See `dist/` folder.
+See `dist/` folder or visit [Mozilla addon site][amo].
 
 ### Building
 
@@ -20,3 +20,4 @@ See `dist/` folder.
 "Open Conversation Button" is released under the [MIT License][mit].
 
 [mit]: http://www.opensource.org/licenses/MIT
+[amo]: https://addons.mozilla.org/en-US/thunderbird/addon/open-conversation-button/
