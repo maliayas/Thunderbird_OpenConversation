@@ -1,6 +1,6 @@
 {
   "name": "thunderbird-open-conversation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Adds a toolbar button to open selected email's conversation in Thunderbird.",
   "author": "Ali Ayas",
   "license": "MIT",
